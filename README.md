@@ -3,9 +3,9 @@
 
 ## Introduction
 
-Project Minja Axelsson and Soumya Banerjee
+Project Soumya Banerjee
 
-Using science fiction to reconceptualize AI using Large-Language Models (LLMs).
+Stock portfolio optimization using Large-Language Models (LLMs).
 
 ## Installation
 
