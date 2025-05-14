@@ -35,7 +35,7 @@ You can then execute the following notebooks in Github codespaces or Google Cola
 
 `deep_research_agent_ag2_stocks.ipynb`: DeepResearch agent to re-envision life as we do not know it
 
-https://github.com/neelsoumya/science_fiction_LLM/blob/main/deep_research_agent_ag2_stocks.ipynb
+https://github.com/neelsoumya/stock_portfolio_LLM_agent/blob/main/deep_research_agent_ag2_stocks.ipynb
 
 ## Acknowledgements
 
