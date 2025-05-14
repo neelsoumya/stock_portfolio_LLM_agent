@@ -32,22 +32,10 @@ You can then execute the following notebooks in Github codespaces or Google Cola
 
 ## Files
 
-`RAG_sciencefiction_superintelligence_SB.ipynb`: Notebook with RAG for reenvisioning superintelligence with science fiction
 
-`papers` folder has documents for RAG
+`deep_research_agent_ag2_stocks.ipynb`: DeepResearch agent to re-envision life as we do not know it
 
-`.jinja` files have system prompts for querying the LLM
-
-`.txt` files have logs for the output of LLMs
-
-
-`simple_agent_ag2.ipynb`: Simple agent to call OpenAI and ask it to re-envision AI repeatedly
-
-`deep_research_agent_ag2.ipynb`: DeepResearch agent to re-envision AI
-
-`deep_research_agent_ag2_lifeaswedonotknowit.ipynb`: DeepResearch agent to re-envision life as we do not know it
-
-https://github.com/neelsoumya/science_fiction_LLM/blob/main/deep_research_agent_ag2_lifeaswedonotknowit.ipynb
+https://github.com/neelsoumya/science_fiction_LLM/blob/main/deep_research_agent_ag2_stocks.ipynb
 
 ## Acknowledgements
 
